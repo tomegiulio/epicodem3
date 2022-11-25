@@ -37,4 +37,3 @@ console.log(ulioBank2.prelevare());
 console.log(ulioBank2.interessi());
 console.log(ulioBank2.prelevare());
 
-
